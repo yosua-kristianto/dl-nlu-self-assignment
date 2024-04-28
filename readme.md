@@ -1,21 +1,19 @@
-So I asked to answer these question below:
+So I asked you to answer these questions below:
 
-> Gunakan data sentimen berikut ini
-> 
+> Use the following sentiment data
+>
 > https://www.kaggle.com/code/kevinismail/training-lstm-sentiment-analysis-bahasa.
-> 
-> 1.Tunjukkan hasil word embedding dari dokumen tsb dengan tfidf <br />
-> 2.Tunjukkan hasil word embedding dari dokumen tsb dengan glove <br />
-> 3.Tunjukkan hasil word embedding dari dokumen tsb dengan fast text <br />
-> 4.Tunjukkan hasil word embedding dari dokumen tsb dengan word2vec- cbow <br />
-> 5.Tunjukkan hasil word embedding dari dokumen tsb dengan word2vec- skip-gram <br />
-> 6.Buat klasifikasi dengan LSTM dan GRU <br />
-> 7.Laporkan hasil performance Accuracy, Precisioon, Recall minimal 2 (contoh glove dengan GRU, Fasttext + LSTM) <br />
+>
+> 1. Show the word embedding results of the document using TF-IDF <br />
+> 2. Show the word embedding results from the document with GloVe <br />
+> 3. Show the word embedding results of the document with Fast-Text <br />
+> 4. Show the word embedding results from the document using Word2Vec- CBOW <br />
+> 5. Show the word embedding results from the document using Word2Vec- skip-gram <br />
+> 6. Create a classification with LSTM and GRU <br />
+> 7. Report the performance results of Accuracy, Precision, and Recall at least 2 (example glove with GRU, Fasttext + LSTM) <br />
 
-This repository is dedicated to solve these questions above. 
+This repository is dedicated to solving these questions above. 
 
 You may reference the code within this repository, however, keep things 
 
-<h1>"CLEAN".</h1>
-
-![nyontek = do]([http://url/to/img.png](https://s.kaskus.id/images/2017/03/03/9553807_20170303100037.jpg))
+<a href="https://s.kaskus.id/images/2017/03/03/9553807_20170303100037.jpg"><h1>"CLEAN"</h1></a>
