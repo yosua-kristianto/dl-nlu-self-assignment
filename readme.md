@@ -16,4 +16,9 @@ This repository is dedicated to solving these questions above.
 
 You may reference the code within this repository, however, keep things 
 
-<a href="https://s.kaskus.id/images/2017/03/03/9553807_20170303100037.jpg"><h1>"CLEAN"</h1></a>
+# ["CLEAN"](https://s.kaskus.id/images/2017/03/03/9553807_20170303100037.jpg)
+
+Things to be installed:
+
+conda install ipykernel jupyter pandas matplotlib numpy scikit-learn
+pip install tensorlayerx tensorflow torch nltk
