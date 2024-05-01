@@ -20,10 +20,14 @@ You may reference the code within this repository, however, keep things
 
 Things to be installed:
 
-conda install ipykernel jupyter pandas matplotlib numpy scikit-learn
+`conda install ipykernel jupyter pandas matplotlib numpy scikit-learn tqdm`
 
-pip install tensorflow nltk
-
+`pip install tensorflow Sastrawi gensim`
 
 Stop, slang, and root words are came from this repository below:
 https://github.com/louisowen6/NLP_bahasa_resources/tree/master
+
+
+WINDOWS USER:
+
+For gensim. make sure update Microsoft Visual C++ 14.0 or greated before installing.
